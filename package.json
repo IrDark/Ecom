@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce",
+  "version": "1.3.6",
+  "type": "module",
+  "description": "ecommerce pro (Node.js runtime, 128MB memory)",
+  "private": true,
+  "license": "MIT"
+}
